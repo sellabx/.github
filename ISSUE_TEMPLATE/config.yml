@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General Support
+    url: mailto:support@sellabx.com
+    about: Use this channel for account or organization-level support requests.
+  - name: Security Report
+    url: mailto:security@sellabx.com
+    about: Report security vulnerabilities privately. Do not open public issues.
+  - name: Community Discussion
+    url: https://github.com/sellabx/.github/discussions
+    about: Ask usage questions and discuss architecture or best practices.
