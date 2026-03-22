@@ -74,6 +74,6 @@
 
 ## 署名与来源
 
-本行为准则改编自 [Contributor Covenant 2.1 版本](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)。
+本行为准则改编自 [Contributor Covenant 2.1 版本](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)。
 
-社区影响分级参考了 [Mozilla 的行为准则执行阶梯](https://github.com/mozilla/diversity)。
+社区影响分级参考了 [Mozilla 的行为准则执行阶梯](https://github.com/mozilla/inclusion)。

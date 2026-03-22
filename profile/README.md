@@ -24,10 +24,10 @@ We focus on reliability, developer experience, and long-term maintainability —
 
 We welcome contributions, issue reports, and feedback across all our repositories.
 
-- [Contribution Guide](.github/CONTRIBUTING.md)
-- [Code of Conduct](.github/CODE_OF_CONDUCT.md)
-- [Security Policy](.github/SECURITY.md)
-- [Support](.github/SUPPORT.md)
+- [Contribution Guide](../CONTRIBUTING.md)
+- [Code of Conduct](../CODE_OF_CONDUCT.md)
+- [Security Policy](../SECURITY.md)
+- [Support](../SUPPORT.md)
 
 ---
 
