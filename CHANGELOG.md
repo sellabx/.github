@@ -8,16 +8,16 @@ This project follows Semantic Versioning and a Keep a Changelog style.
 
 ### Added
 
-- 
+-
 
 ### Changed
 
-- 
+-
 
 ### Fixed
 
-- 
+-
 
 ### Security
 
-- 
+-

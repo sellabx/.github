@@ -38,7 +38,7 @@
 
 ## 举报与处理
 
-如遇辱骂、骚扰或其他不可接受行为，请通过 conduct@sellabx.com 向负责执行的社区领导者举报。
+如遇辱骂、骚扰或其他不可接受行为，请通过 <conduct@sellabx.com> 向负责执行的社区领导者举报。
 
 所有投诉都将被及时、公正地审查与调查。
 
@@ -74,8 +74,6 @@
 
 ## 署名与来源
 
-本行为准则改编自 Contributor Covenant 2.1 版本：
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+本行为准则改编自 [Contributor Covenant 2.1 版本](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)。
 
-社区影响分级参考了 Mozilla 的行为准则执行阶梯：
-https://github.com/mozilla/diversity
+社区影响分级参考了 [Mozilla 的行为准则执行阶梯](https://github.com/mozilla/diversity)。

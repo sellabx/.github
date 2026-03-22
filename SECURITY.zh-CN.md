@@ -18,7 +18,7 @@ sellabx 构建用于业务关键场景的可扩展工具与基础设施。
 
 请通过以下私密渠道之一提交：
 
-- 邮箱：security@sellabx.com
+- 邮箱：<security@sellabx.com>
 - GitHub Security Advisory：使用本仓库的私有漏洞报告功能
 
 请尽可能提供完整信息：

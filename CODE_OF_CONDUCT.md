@@ -36,7 +36,7 @@ This Code of Conduct applies within all community spaces and also applies when a
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at conduct@sellabx.com.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at <conduct@sellabx.com>.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
@@ -72,6 +72,8 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at
+[Contributor Covenant v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 
-Community Impact Guidelines were inspired by Mozilla's code of conduct enforcement ladder at https://github.com/mozilla/diversity.
+Community Impact Guidelines were inspired by Mozilla's code of conduct enforcement ladder at
+[Mozilla diversity](https://github.com/mozilla/diversity).

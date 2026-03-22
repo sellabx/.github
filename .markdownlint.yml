@@ -1,0 +1,4 @@
+# markdownlint configuration
+# Disable line-length rule — prose documentation does not benefit from
+# hard 80-character wrapping, and enforcing it would harm readability.
+MD013: false

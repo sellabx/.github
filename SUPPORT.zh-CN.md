@@ -6,8 +6,8 @@ sellabx 是一个面向业务关键系统构建可扩展工具与基础设施的
 
 - GitHub Discussions：一般使用问题、架构讨论与最佳实践
 - GitHub Issues：缺陷、功能请求与可复现技术问题
-- 邮箱：support@sellabx.com（账号或组织级支持请求）
-- 安全问题：security@sellabx.com（请勿公开披露）
+- 邮箱：<support@sellabx.com>（账号或组织级支持请求）
+- 安全问题：<security@sellabx.com>（请勿公开披露）
 
 ## 2. 响应时效预期
 

@@ -6,8 +6,8 @@ sellabx is a tech lab building scalable tools and infrastructure for business-cr
 
 - GitHub Discussions: general usage questions, architecture discussions, and best practices
 - GitHub Issues: bugs, feature requests, and reproducible technical problems
-- Email: support@sellabx.com for account or organization-level support requests
-- Security reports: security@sellabx.com (do not post security issues publicly)
+- Email: <support@sellabx.com> for account or organization-level support requests
+- Security reports: <security@sellabx.com> (do not post security issues publicly)
 
 ## 2. Response Time Expectations
 

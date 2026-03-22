@@ -12,9 +12,9 @@ Describe the bug clearly and concisely.
 
 ## 2. Steps to Reproduce
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## 3. Expected Behavior
 

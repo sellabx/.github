@@ -18,7 +18,7 @@ Please do not report security vulnerabilities in public issues.
 
 Use one of the following private channels:
 
-- Email: security@sellabx.com
+- Email: <security@sellabx.com>
 - GitHub Security Advisory: use private vulnerability reporting for this repository
 
 Include as much detail as possible:

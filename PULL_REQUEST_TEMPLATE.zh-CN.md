@@ -4,7 +4,9 @@
 
 PR 标题必须符合 Conventional Commits：
 
+```text
 <type>(<optional-scope>): <summary>
+```
 
 示例：
 

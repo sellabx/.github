@@ -13,11 +13,11 @@
 
 从 main 创建语义清晰的分支。
 
-- feat/<short-description>
-- fix/<short-description>
-- chore/<short-description>
-- docs/<short-description>
-- refactor/<short-description>
+- `feat/<short-description>`
+- `fix/<short-description>`
+- `chore/<short-description>`
+- `docs/<short-description>`
+- `refactor/<short-description>`
 
 ### 3. 开发变更
 
@@ -29,7 +29,9 @@
 
 提交信息必须遵循以下格式：
 
+```text
 <type>(<optional-scope>): <short summary>
+```
 
 支持的 type：
 
